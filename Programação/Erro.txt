@@ -1,0 +1,6 @@
+Olhe além da superfície: o problema nem sempre está no arquivo ou componente mais óbvio
+Siga o fluxo de dados: entender como as ações se propagam por meio de um aplicativo é crucial
+
+Use OODA e tire suas dúvidas. Veja isso de diferentes perspectivas. Abra sua mente. Pense em software padrão.
+
+Isso ainda não está funcionando. Fizemos toneladas e toneladas de iterações. É hora de terminar com isso e fazer acontecer. Agora. Certifique-se de ter analisado todos os ângulos e de que não sobrou pedra sobre pedra. Não quero que você pare de investigar até ter praticamente certeza de que encontrou um motivo para isso não estar funcionando, e não até que o tenha encontrado e esteja confiante de que pode consertar. Depois disso, você não vai começar a consertar até que esse momento chegue. Faça uma análise completa, completa, completa e leve a sério.

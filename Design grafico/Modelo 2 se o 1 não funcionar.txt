@@ -1,0 +1,43 @@
+**"Crie um design corporativo, premium, tecnológico e sofisticado. O cenário deve ser uma mesa de escritório elegante, com fundo branco fosco (ou cinza claro), luz natural suave, sombras bem definidas e textura de grão fotográfico. A composição inclui um cartão de visita com uma logo aplicada no centro, prancheta, caneta ou papel timbrado como objetos de apoio na cena. O layout é limpo, minimalista, moderno, com muito espaço negativo. A paleta de cores usa branco, cinza claro, vermelho institucional (#970000) e detalhes em preto.
+
+Inclua linhas vetoriais finas em vermelho criando conexão e movimento suave no fundo ou nos cantos da imagem. Adicione shapes geométricos elegantes (trapézios, losangos, hexágonos ou curvas suaves) preenchidos ou vazados para criar profundidade e tecnologia. Tipografia minimalista opcional, em estilo 3D muito leve com sombras suaves e realistas. A composição deve transmitir inovação, sofisticação, profissionalismo, seriedade e modernidade."**
+
+✅ Parâmetros Essenciais:
+Fundo: Branco fosco, cinza claro ou textura elegante
+
+Luz: Natural, com sombra suave, bem definida e realista
+
+Textura: Grão fotográfico, profundidade de campo (bokeh leve)
+
+Cores:
+
+🔴 Vermelho institucional (#970000)
+
+⚪ Branco (#FFFFFF)
+
+⚫ Preto para contrastes
+
+🔲 Cinza muito claro (#F7F7F7)
+
+Elementos:
+
+Mockups de cartão, notebook, papel timbrado, prancheta
+
+Linhas vetoriais finas em vermelho
+
+Shapes geométricos sutis, preenchidos ou vazados
+
+Estilo visual: Minimalista, sofisticado, tecnológico, premium, altamente corporativo
+
+🎨 Exemplos de Aplicação do Prompt:
+Capa para WhatsApp
+
+Cartão digital
+
+Feed do Instagram organizado
+
+Modelo de orçamento, proposta, apresentação
+
+Mockups de logo, identidade visual, cartão de visita, papel timbrado
+
+Wallpapers, banners, templates de redes sociais

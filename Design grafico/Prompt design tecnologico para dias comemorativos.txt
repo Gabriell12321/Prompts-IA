@@ -1,0 +1,64 @@
+🎨 Prompt Profissional – Design Corporativo Sofisticado (Estilo IPPEL inspirado no modelo da Páscoa)
+Descrição geral:
+Crie um design moderno, elegante e tecnológico, com forte apelo visual corporativo e institucional. A composição deve seguir o mesmo conceito visual do exemplo enviado (com tipografia grande e impactante, mockup de objeto 3D realista ao centro, fundo branco e uso criativo de espaço negativo). O design final precisa ser adaptável para qualquer tema específico (exemplo: campanhas institucionais, datas comemorativas, lançamentos, ações internas).
+
+🎯 Estrutura Visual do Design:
+Fundo: Branco puro (#FFFFFF)
+
+Elemento central: Mockup 3D fotográfico realista (pode ser um produto, objeto físico, revista, caixa, embalagem, material institucional ou qualquer item temático – sempre com aspecto fotográfico e iluminação realista)
+
+Tipografia:
+
+Fonte moderna, sem serifa (Exemplo: Montserrat, Nexa, Poppins ou Plus Jakarta Sans)
+
+Título grande, em caixa alta ou com partes destacadas em vermelho institucional (#970000)
+
+Textos secundários pequenos, com peso leve, cor cinza escuro ou preto (#4A4A4A ou #000000)
+
+Se desejar, aplicar efeito 3D minimalista e discreto no título (com sombra leve e suave profundidade)
+
+Elementos gráficos de apoio:
+
+Linhas vetoriais finas e curvas (na cor vermelha #970000), com movimento fluido e tecnológico
+
+Formas geométricas suaves (trapézios, círculos, hexágonos ou shapes orgânicos, podendo ser preenchidos ou apenas contornos)
+
+Pequenos detalhes vetoriais para transmitir movimento, fluxo e conexão (exemplo: partículas de luz, pontos, grids digitais discretos)
+
+Espaçamento:
+
+Muito espaço negativo
+
+Design com respiração visual
+
+Hierarquia clara entre título, texto secundário e elemento central
+
+Paleta de cores:
+
+Fundo: Branco (#FFFFFF)
+
+Elementos de destaque: Vermelho institucional (#970000)
+
+Tipografia secundária: Cinza escuro (#4A4A4A) ou Preto (#000000)
+
+Sombreamentos: Cinza claro para profundidade leve (#DDDDDD ou similar)
+
+Assinatura visual:
+
+Inserir um espaço reservado no canto inferior direito para o logotipo da empresa (Exemplo: “SuaLogoAqui”)
+
+📝 Exemplo de Texto Modelo:
+Título Grande (exemplo para tema genérico):
+"Inovação Que Transforma"
+ou
+"Conexões Que Inspiram"
+ou
+"Resultado Antes do Deadline"
+
+Texto secundário (menor, discreto, opcional):
+“Sua mensagem institucional pode vir aqui. Frase curta e objetiva.”
+
+🧠 Instruções finais para a IA de geração de imagem:
+👉 O resultado precisa ter aparência fotográfica realista, com iluminação natural ou de estúdio.
+👉 Respeitar o estilo minimalista corporativo com tipografia forte, elementos vetoriais modernos, muito espaço em branco e um mockup central 3D realista, exatamente como no exemplo de referência enviado.
+
