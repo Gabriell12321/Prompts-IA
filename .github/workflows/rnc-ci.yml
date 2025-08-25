@@ -1,0 +1,21 @@
+name: RNC CI - checks
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for secrets (simple)
+        run: |
+          grep -R --line-number -E "password|passwd|secret|token|api_key|apikey|private_key|id_rsa|\.env" || true
+      - name: List changed files
+        run: git --no-pager diff --name-only ${{ github.sha }} ${{ github.event.before }} || true
+
+# Nota: Este workflow apenas executa checagens. Evite workflows que auto-pushem na mesma branch principal sem
+# controles adicionais (ex.: usar um branch dedicado e Pull Request automático) para prevenir loops.

@@ -1,0 +1,30 @@
+Prompt para assistente: "RNC - Autopush GitHub"
+
+Objetivo:
+Sempre que eu (ou você, assistente autorizado) modificar arquivos do projeto RNC neste repositório local, você deve automaticamente preparar, commitar e enviar (push) as alterações para o repositório remoto no GitHub (branch main), seguindo as regras de segurança abaixo.
+
+Regras operacionais (seguir sempre):
+1) Antes de commitar, executar uma verificação rápida de segurança procurando por padrões sensíveis: `password`, `passwd`, `secret`, `token`, `api_key`, `apikey`, `private_key`, `id_rsa`, `.env`. Se detectar correspondências, PARAR e avisar o usuário imediatamente, descrevendo o arquivo e o trecho encontrado; não commitar nem fazer push.
+2) Se não houver senhas/secrets detectados, executar:
+   - git add -A
+   - git pull --rebase origin main
+   - git commit -m "rnc: <resumo breve das alterações>" (o resumo breve deve ser em uma linha, em português, descrevendo o porquê da alteração)
+   - git push origin main
+3) Antes do push, validar se o commit contém apenas arquivos esperados (extensões: .txt, .md, .png, .jpg, .yaml). Se houver binários grandes inesperados, avisar o usuário.
+4) Se o push falhar por autenticação, avisar o usuário com instruções curtas: usar GitHub CLI, configurar credential manager, ou gerar um Personal Access Token (PAT) e adicionar via git credential manager.
+5) Em caso de conflito durante git pull --rebase, parar e notificar o usuário com instruções para resolver conflito manualmente; não tentar resolver automaticamente.
+
+Boas práticas de commit:
+- Mensagem de commit deve começar com `rnc:` e conter um resumo curto em português.
+- Se a alteração for automática (por exemplo, formatação), usar `rnc: chore - formato automático`.
+
+Critérios de sucesso:
+- Push concluído e branch `main` no remoto atualizado com o novo commit.
+- Se houve problemas de segurança, conflito ou autenticação, a assistente reporta imediatamente com passos concretos.
+
+Notas:
+- Não force push (`--force`) em `main` sem autorização explícita do usuário.
+- Não inclua secrets em commits. Sempre avisar e parar caso algo suspeito seja detectado.
+
+Uso:
+Cole este prompt para instruir a sua assistente local (ou um script que chame git) a aplicar as regras acima cada vez que fizer alterações no projeto RNC.
