@@ -1,0 +1,16 @@
+# Ignore common system files
+Thumbs.db
+.DS_Store
+
+# Ignore credentials and environment files
+.env
+*.env
+*.key
+*.pem
+id_rsa*
+
+# Ignore local IDE settings
+.vscode/
+
+# Ignore images if you don't want them in Git history (uncomment to enable)
+#images/

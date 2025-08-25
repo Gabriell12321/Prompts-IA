@@ -1,0 +1,9 @@
+Referências e atribuições para imagens utilizadas neste repositório.
+
+Se alguma imagem foi baixada do Freepik como usuário free, a atribuição obrigatória é:
+
+"Designed by eightonesix / Freepik"
+
+Link para Freepik: http://www.freepik.com
+
+Verifique `docs/License free.txt` e `docs/License premium.txt` para os termos completos.
